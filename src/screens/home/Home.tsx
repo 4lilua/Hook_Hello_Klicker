@@ -1,4 +1,4 @@
-/*Grupo: Aline Silvério Mendes e Luana de Carvalho Bonfim*/
+/*Grupo: Aline Silvério Mendes e Luana de Carvalho Bomfim*/
 
 import React from 'react';
 import { Text, View } from 'react-native';
@@ -8,7 +8,7 @@ import { BotaoKitty } from '../../components/BotaoInterativo';
 
 
 export default function Home() {
-
+//Chama os componentes
     return (
         <View style={styles.container}>
 
