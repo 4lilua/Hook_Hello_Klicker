@@ -1,3 +1,5 @@
+/*Grupo: Aline Silvério Mendes e Luana de Carvalho Bonfim*/
+
 import React from 'react';
 import { Text, View } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
