@@ -1,4 +1,4 @@
-/*Grupo: Aline Silvério Mendes e Luana de Carvalho Bonfim*/
+/*Grupo: Aline Silvério Mendes e Luana de Carvalho Bomfim*/
 
 import React, { useState, useEffect } from 'react';
 import { View, Text, Button, StyleSheet, Alert, Pressable, ImageBackground } from 'react-native';
